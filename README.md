@@ -54,9 +54,7 @@ The frontend provides a seamless **UI for interacting** with the deployed contra
 - **Provides an interactive UI** for updating messages, incrementing counters, and transferring ownership.  
 - **Real-time display** of contract state changes.  
 
-### Installation and Usage  
+### Author
 
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/your-username/Function_Frontend.git
-   cd Function_Frontend
+  Paras Aggarwal
+  <br>parasaggarwal7172@gmail.com</br>
